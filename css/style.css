@@ -5,7 +5,7 @@ body {
 	padding:0;
 	width:100%;
 	color:#6e6e6e;
-	font:normal 14px/1.5em "Liberation sans", Arial, Helvetica, sans-serif;
+	font:normal 16px/1.5em "Liberation sans", Arial, Helvetica, sans-serif;
 }
 html, .main {
 	padding:0;
@@ -265,7 +265,7 @@ p.infopost a.com span {
 	float:right;
 	margin:0 0 16px;
 	padding:12px 0;
-	font-size:13px;
+	font-size:14px;
 	line-height:18px;
 	font-weight:bold;
 	text-decoration:none;
@@ -273,7 +273,7 @@ p.infopost a.com span {
 .content p.pages {
 	margin:0;
 	padding:24px 0;
-	font-size:11px;
+	font-size:14px;
 	color:#929292;
 	text-align:left;
 	background:repeat-x left top;
