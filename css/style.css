@@ -7,6 +7,13 @@ body {
 	color:#6e6e6e;
 	font:normal 16px/1.5em "Liberation sans", Arial, Helvetica, sans-serif;
 }
+
+@media only screen and (min-width: 800px) {
+	body {
+		font-size: 22px;
+	}
+  }
+
 html, .main {
 	padding:0;
 	margin:0;
